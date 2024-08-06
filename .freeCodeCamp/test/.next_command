@@ -1,3 +1,5 @@
 ./insert_data.sh
 cp courses.csv courses_test.csv
 ./insert_data.sh
+./insert_data.sh
+__vsc_prompt_cmd_original
